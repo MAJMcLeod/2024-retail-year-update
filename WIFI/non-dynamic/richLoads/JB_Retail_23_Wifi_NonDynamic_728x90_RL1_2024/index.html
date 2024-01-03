@@ -1,0 +1,88 @@
+  <!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <meta name="ad.size" content="width=728,height=90" />
+
+    <link rel="stylesheet" type="text/css" href="stylesRL1.css" />
+
+    <script 
+      type="text/javascript" 
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js">
+    </script>
+
+    <title></title>
+  </head>
+
+  <body>
+    <div id="main_container">
+      <!--start main_container-->
+
+      <div id="main_content" class="">
+        <!--start main_content-->
+  
+        <!-- Creative -->
+        <!-- background clouds -->
+        
+        <img src="images/backgroundClouds.svg" id="foregroundClouds" class="backgroundCloud">
+
+        <!-- emoji background clouds -->
+        <img src="images/thumbCloud.svg" id="emojiA" class="scaleSmall backgroundCloud">
+        <img src="images/heartCloud.svg" id="emojiB" class="scaleSmall backgroundCloud">
+        <img src="images/exclamationCloud.svg" id="emojiC" class="scaleSmall backgroundCloud">
+        <!-- <img src="images/thumbCloud.svg" id="emojiD" class="scaleSmall backgroundCloud"> -->
+
+        <!-- plane -->
+        <img src="images/plane.svg" id="plane">
+
+        <!-- foreground clouds -->
+
+        <img src="images/foregroundClouds.svg" id="foregroundClouds" class="foregroundCloud">
+
+        <!-- emoji foreground clouds -->
+        <!-- <img src="images/heartCloud.svg" id="emojiL" class="foregroundCloud">  -->
+        <img src="images/thumbCloud.svg" id="emojiM" class="foregroundCloud">
+        <!-- <img src="images/exclamationCloud.svg" id="emojiN" class="foregroundCloud">
+        <img src="images/heartCloud.svg" id="emojiO" class="foregroundCloud"> -->
+
+        <!-- /creative -->
+        <div id="cloudFade"></div>
+        <div id="text_holder">
+          <div id="h1" class="hidden">Fly <span id="h2" class="hidden">without the FOMO.</span></div>
+        </div>
+
+        <div id="endframeBg">
+          <div id="pinkRibbon"></div>
+          <div id="h3" class="hidden">Stay connected with fast, free<br>wi-fi for everyone on every plane.<span class="asterisk">&ast;</span></div>
+          <div id="cta" class="hidden">Book Now</div> 
+        </div>
+        
+        <div id="blueBottomCard"></div>
+        <div id="cardtext_holder">
+          <div id="termsCopyright" class="terms">&copy; 2024 JetBlue Airways</div>
+          <div id="terms1" class="hidden terms"><span class="asterisk">&ast;</span>Coverage may vary by aircraft.<br/></div>
+          <div id="logoHolder">
+            <img id="logo" src="./images/logo.svg" class="" />
+            <div id="partner_logo_container">
+              <img id="partner_logo_img" src="./images/1x1.png" class="" /> 
+            </div>
+          </div>
+        </div>
+
+
+        <!--end main_content-->
+      </div>
+
+      <div id="default_exit" class="btn" ></div>
+
+      <!--end main_container-->
+    </div>
+    <script type="text/javascript" src="mainRL1.js"></script>
+  </body>
+</html>

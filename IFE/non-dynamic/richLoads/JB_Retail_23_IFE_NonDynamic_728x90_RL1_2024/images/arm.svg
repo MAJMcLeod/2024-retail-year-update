@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="728" height="119" viewBox="0 0 728 119">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="504" height="119" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_8013" data-name="Rectangle 8013" width="204.313" height="96.204" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Live_TV_728x90_Frame02_v02_1">
+      <rect width="728" height="119"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Live_TV_728x90_Frame02_v02_1" data-name="JetBlue_Retail_Refresh_Live_TV_728x90_Frame02_v02 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Live_TV_728x90_Frame02_v02_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="hand" transform="translate(326.025 15.572) rotate(60)">
+        <g id="Group_20979" data-name="Group 20979" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+          <path id="Path_99332" data-name="Path 99332" d="M0,5.374,6.746,0a5.363,5.363,0,0,1,.228,4c-.8,1.944-5.145,6.4-5.145,6.4Z" transform="translate(3.649 5.904)" fill="#77281b"/>
+          <path id="Path_99333" data-name="Path 99333" d="M100.879,96.2C59.32,85.5,21,50.851,11.2,40.064,7.376,36.833,2.277,28.632,1.776,25.907,1.309,23.372-.2,15.144.023,12.577.266,9.786,1.952,2.616,2.141.03c2.788-.387,4.483,3,4.4,5.273s-1.89,5.6-1.2,7.765,6.4,5.8,8.639,5.426c1.985-1.957,1.93-4.46,2.2-7.654S19.094,5.947,21.4,6.823c.18,1.527-3.58,10.028-1.878,13.774,2.184,4.806-.9,8.967.5,10.241C28.13,35.4,41.362,42.22,52.6,45.093c19.969,5.1,39.127,21.154,39.127,21.154,26.859-14.365,55.8-23.354,55.8-23.354,19.4,1.67,56.786,14.3,56.786,14.3C162.97,87.58,100.879,96.2,100.879,96.2" transform="translate(0 0)" fill="#c24434"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

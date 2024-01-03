@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="600" viewBox="0 0 300 600">
+  <defs>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Your_Getaway_300x600_Dynamic_Frame01_1">
+      <rect width="300" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Your_Getaway_300x600_Dynamic_Frame01_1" data-name="JetBlue_Retail_Refresh_Your_Getaway_300x600_Dynamic_Frame01 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Your_Getaway_300x600_Dynamic_Frame01_1)">
+    <g id="Beach" transform="translate(-703.78 260)">
+      <path id="beach_extension" data-name="beach extension" d="M-141,0H706.374l397.593,59.219V402.808H-141Z" transform="translate(2.196 44.192)" fill="gold"/>
+      <path id="sand" d="M218.778,182.925c-5.255-.656-61.17-27.542-79.753-28.813C95.1,151.105,24.885,65.9,47.289,48.491c13.892-10.791-178.2,1.156,125.265-31.5S736.64,2.491,792.4,39.884c6.368,7.4-32.134,128.033-41.219,129.889" transform="matrix(0.999, 0.035, -0.035, 0.999, 311.132, 30.044)" fill="gold"/>
+    </g>
+  </g>
+</svg>

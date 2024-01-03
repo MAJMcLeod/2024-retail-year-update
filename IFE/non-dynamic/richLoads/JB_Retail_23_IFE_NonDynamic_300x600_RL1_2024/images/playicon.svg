@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="600" viewBox="0 0 300 600">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="300" height="458" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1">
+      <rect width="300" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1" data-name="JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="plane_seatback" data-name="plane seatback" transform="translate(8.151 186.276)">
+        <g id="play_icon" data-name="play icon" transform="translate(-0.714 9.703)">
+          <path id="Path_48110" data-name="Path 48110" d="M131.523,52.5c-.127-.132-.257-.261-.388-.388a16.709,16.709,0,0,0-11.7-4.734h0v3.334A13.332,13.332,0,0,1,128.8,54.5a12.549,12.549,0,0,1,.333,17.745c-.108.113-.219.223-.331.331a13.5,13.5,0,0,1-18.75,0,12.551,12.551,0,0,1-.329-17.748c.108-.111.217-.22.329-.328a13.329,13.329,0,0,1,9.372-3.785V47.382a16.713,16.713,0,0,0-11.7,4.734,15.885,15.885,0,0,0-.385,22.462c.126.131.255.258.385.386a16.84,16.84,0,0,0,23.408,0,15.884,15.884,0,0,0,.387-22.46" transform="translate(23.13 10.653)" fill="#fc3388"/>
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="14.5" cy="14.5" r="14.5" transform="translate(127.849 59.724)" fill="#fc3388"/>
+          <path id="Path_48111" data-name="Path 48111" d="M112.865,68a.582.582,0,0,1-.309-.511v-11.5a.585.585,0,0,1,.309-.511.645.645,0,0,1,.619,0l10.542,5.749a.576.576,0,0,1,0,1.024L113.483,68a.645.645,0,0,1-.619,0" transform="translate(25.306 12.455)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

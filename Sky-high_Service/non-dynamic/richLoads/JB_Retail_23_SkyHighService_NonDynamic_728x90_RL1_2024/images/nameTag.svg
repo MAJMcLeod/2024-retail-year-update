@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="728" height="90" viewBox="0 0 728 90">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="504" height="90" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Sky_High_Service_728x90_Frame03_1">
+      <rect width="728" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Sky_High_Service_728x90_Frame03_1" data-name="JetBlue_Retail_Refresh_Sky_High_Service_728x90_Frame03 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Sky_High_Service_728x90_Frame03_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="air_steward" data-name="air steward" transform="translate(334.834 -7.855)">
+        <g id="Crew_member_badge" data-name="Crew member badge" transform="translate(42.971 52.474)">
+          <rect id="name_badge" data-name="name badge" width="10.913" height="2.598" transform="translate(0 2.841)" fill="#f6f6f6"/>
+          <g id="badge" transform="translate(0 0)">
+            <g id="CREWMEMBER" transform="translate(0.943 3.698)">
+              <path id="R" d="M198.77.56h.4a.258.258,0,0,1,.289.263.236.236,0,0,1-.2.253l.249.344H199.3l-.235-.336h-.116V1.42h-.18Zm.4.364c.075,0,.116-.042.116-.1a.1.1,0,0,0-.116-.1h-.218v.2Z" transform="translate(-190.464 -0.537)" fill="#00a"/>
+              <path id="E" d="M180.824.56h.6V.721H181V.909h.39v.159H181v.19h.424V1.42h-.6Z" transform="translate(-173.267 -0.536)" fill="#00a"/>
+              <path id="B" d="M161.727.559h.338c.167,0,.284.081.284.24a.2.2,0,0,1-.1.166.218.218,0,0,1,.129.194c0,.167-.114.26-.3.26h-.353Zm.337.342c.069,0,.105-.033.105-.091s-.039-.089-.1-.089h-.159V.9Zm.021.357c.078,0,.115-.041.115-.1a.1.1,0,0,0-.107-.1h-.186v.2Z" transform="translate(-154.969 -0.536)" fill="#00a"/>
+              <path id="M" d="M134.876.56h.289l.187.642.187-.642h.283v.86h-.176V.737l-.2.674h-.2l-.2-.675V1.42h-.175Z" transform="translate(-129.239 -0.536)" fill="#00a"/>
+              <path id="E-2" data-name="E" d="M116.928.56h.6V.721h-.421V.909h.39v.159h-.39v.19h.424V1.42h-.6Z" transform="translate(-112.041 -0.536)" fill="#00a"/>
+              <path id="M-2" data-name="M" d="M90.076.56h.289l.187.642L90.739.56h.283v.86h-.176V.737l-.2.674h-.2l-.2-.675V1.42h-.176Z" transform="translate(-86.312 -0.536)" fill="#00a"/>
+              <path id="W" d="M59.555.56h.192l.15.608.153-.6h.187l.153.594L60.539.56h.192l-.227.86h-.213L60.144.842,60,1.42h-.213Z" transform="translate(-57.066 -0.536)" fill="#00a"/>
+              <path id="E-3" data-name="E" d="M43.428.56h.6V.721h-.421V.909H44v.159h-.39v.19h.424V1.42h-.6Z" transform="translate(-41.613 -0.536)" fill="#00a"/>
+              <path id="R-2" data-name="R" d="M22.988.56h.4a.258.258,0,0,1,.289.263.236.236,0,0,1-.2.253l.249.344h-.212l-.235-.336h-.116V1.42h-.18Zm.4.364c.075,0,.116-.042.116-.1a.1.1,0,0,0-.116-.1h-.218v.2Z" transform="translate(-22.027 -0.537)" fill="#00a"/>
+              <path id="C" d="M.844.231.7.328A.251.251,0,0,0,.448.161.264.264,0,0,0,.18.45.263.263,0,0,0,.446.739.255.255,0,0,0,.7.57l.149.1A.429.429,0,0,1,.45.9.433.433,0,0,1,0,.449.434.434,0,0,1,.45,0,.419.419,0,0,1,.844.231" fill="#00a"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="250" viewBox="0 0 300 250">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="300" height="176" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Your_Getaway_300x250_Frame02_1">
+      <rect width="300" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Your_Getaway_300x250_Frame02_1" data-name="JetBlue_Retail_Refresh_Your_Getaway_300x250_Frame02 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Your_Getaway_300x250_Frame02_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="Beach" transform="translate(-189.858 94.83)">
+        <path id="beach_extension" data-name="beach extension" d="M-141,0H322.454L539.909,32.389V220.307H-141Z" transform="translate(0.428 24.17)" fill="gold"/>
+        <path id="sand" d="M119.656,100.047c-2.874-.359-33.455-15.063-43.619-15.759C52.014,82.644,13.61,36.044,25.864,26.521c7.6-5.9-97.46.632,68.511-17.23S402.89,1.362,433.384,21.814c3.483,4.045-17.575,70.025-22.544,71.04" transform="matrix(0.999, 0.035, -0.035, 0.999, 105.512, 16.432)" fill="gold"/>
+      </g>
+    </g>
+  </g>
+</svg>

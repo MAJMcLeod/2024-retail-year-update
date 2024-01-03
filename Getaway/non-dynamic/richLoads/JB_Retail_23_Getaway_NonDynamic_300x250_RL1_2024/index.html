@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <meta name="ad.size" content="width=300,height=250" />
+  
+    <link rel="stylesheet" type="text/css" href="stylesRL1.css" />
+
+    <script 
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js">
+    </script>
+
+    <title></title>
+  </head>
+
+  <body onload="init()">
+    <div id="main_container">
+      <!--start main_container-->
+
+      <div id="main_content" class="">
+        <!--start main_content-->
+
+        <!-- Creative -->
+        <div id="window">
+          <img src="./images/sky.svg">
+          <div id="cloudHolder" id="cloudHolder">
+            <img src="./images/backgroundClouds.svg" id="backgroundClouds">
+            <img src="./images/foregroundClouds.svg" id="foregroundClouds">
+            <img src="./images/window.svg">
+            <img src="./images/sun.svg" id="sun">
+          </div>
+        </div>
+
+        <img src="./images/sea.svg" id="sea" class="beach">
+        <img src="./images/shoreline.svg" id="shoreline" class="beach">
+        <img src="./images/floor.svg" id="floor">
+        <img src="./images/sand.svg" id="sand" class="beach">
+        
+        <img src="./images/extra_chair_left.svg" id="chair_left" class="chair">
+        <img src="./images/extra_chair_right.svg" id="chair_right" class="chair">
+        <img src="./images/passenger.svg" id="passenger">
+
+        <!-- /creative -->
+
+        <div id="text_holder">
+          <div id="h1" class="hidden">Your getaway<span id="h2" class="hidden"><br>begins at takeoff.</span></div>
+        </div>
+
+        <div id="endframeBg">
+          <div id="pinkRibbon"></div>
+          <div id="h3" class="hidden">Enjoy the most legroom<br>in coach<span class="asterisk">&ast;</span> at a low fare.</div>
+          <div id="cta" class="hidden">Book Now</div> 
+        </div>
+        
+        <div id="blueBottomCard"></div>
+        <div id="cardtext_holder">
+          <div id="termsCopyright" class="terms">&copy; 2024 JetBlue Airways</div>
+          <div id="terms1" class="hidden terms"><br><span class="asterisk">&ast;</span>Based on the avg. fleet wide seat pitch of US airlines.<br/></div>
+          <div id="logoHolder">
+            <img id="logo" src="./images/logo.svg" class="" />
+            <div id="partner_logo_container">
+              <img id="partner_logo_img" src="./images/1x1.png" class="" /> 
+            </div>
+          </div>
+        </div>
+
+        <!--end main_content-->
+      </div>
+
+      <div id="default_exit" class="btn" ></div>
+
+      <!--end main_container-->
+    </div>
+    <script type="text/javascript" src="mainRL1.js"></script>
+  </body>
+</html>

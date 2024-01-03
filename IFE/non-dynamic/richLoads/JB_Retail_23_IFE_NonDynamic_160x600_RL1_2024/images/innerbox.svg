@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="600" viewBox="0 0 160 600">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="160" height="451" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Live_TV_160x600_Frame02_v02_1">
+      <rect width="160" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Live_TV_160x600_Frame02_v02_1" data-name="JetBlue_Retail_Refresh_Live_TV_160x600_Frame02_v02 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Live_TV_160x600_Frame02_v02_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="plane_seatback" data-name="plane seatback" transform="translate(-37.125 219.597)">
+        <path id="Path_48291" data-name="Path 48291" d="M143.1,98.575H89.244V67.894H143.1Zm5.1-35.776H84.148v40.872h64.045Z" transform="translate(0.953 0.561)" fill="#00a"/>
+      </g>
+    </g>
+  </g>
+</svg>
+

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="728" height="90" viewBox="0 0 728 90">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="504" height="90" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Live_TV_728x90_Frame04_v02_1">
+      <rect width="728" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Live_TV_728x90_Frame04_v02_1" data-name="JetBlue_Retail_Refresh_Live_TV_728x90_Frame04_v02 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Live_TV_728x90_Frame04_v02_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="plane_seatback" data-name="plane seatback" transform="translate(298.039 4.067)">
+        <g id="seatOverlay">
+          <path id="Path_48282" data-name="Path 48282" d="M198.82,141.279l.077,1.488H180.159l.269-1.488Z" transform="translate(-77.549 -60.813)" fill="#000064"/>
+          <path id="Path_48283" data-name="Path 48283" d="M113.875,141.068h.228a2.127,2.127,0,0,0,2.144-2.108l-.028-6.712a2.119,2.119,0,0,0-2.139-2.074h-.226a2.109,2.109,0,0,0-2.131,2.074v6.712a2.137,2.137,0,0,0,2.152,2.108" transform="translate(-48.091 -56.034)" fill="#78746e"/>
+          <path id="Path_48284" data-name="Path 48284" d="M43.528,102.682,52.774,150.5h63.846l9.246-47.815Z" transform="translate(-18.737 -44.2)" fill="#44447e"/>
+          <path id="Path_48285" data-name="Path 48285" d="M118.3,125.8l-.42-.661a5.823,5.823,0,0,0-4.914-2.672H98.237a5.822,5.822,0,0,0-4.914,2.672l-.42.661a5.086,5.086,0,0,0-.089,5.352L96.6,137.5a7.037,7.037,0,0,0,6.056,3.4h5.893a7.037,7.037,0,0,0,6.056-3.4l3.787-6.348a5.086,5.086,0,0,0-.089-5.352" transform="translate(-39.643 -52.716)" fill="#cccce0" opacity="0.25"/>
+          <path id="Path_48286" data-name="Path 48286" d="M18.641,141.279l-.077,1.488H37.3l-.269-1.488Z" transform="translate(-7.99 -60.813)" fill="#000064"/>
+          <path id="Path_48287" data-name="Path 48287" d="M122.317,138.406a1.79,1.79,0,0,0-.779-.179H54.282a1.79,1.79,0,0,0-.779.179l-2.511,1.559.269,1.488,2.147-1.431a2.1,2.1,0,0,1,.86-.185h67.283a2.1,2.1,0,0,1,.86.185l2.147,1.431.269-1.488Z" transform="translate(-21.949 -59.5)" fill="#000064"/>
+          <path id="Path_48288" data-name="Path 48288" d="M114.328,141.068H114.1a2.127,2.127,0,0,1-2.144-2.108l.028-6.712a2.119,2.119,0,0,1,2.139-2.074h.226a2.109,2.109,0,0,1,2.131,2.074v6.712a2.137,2.137,0,0,1-2.152,2.108" transform="translate(-48.191 -56.034)" fill="#000064"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
