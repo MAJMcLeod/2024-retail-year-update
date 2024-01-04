@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="250" viewBox="0 0 300 250">
+  <defs>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Sky_High_Service_300x250_Frame02_1">
+      <rect width="300" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Sky_High_Service_300x250_Frame02_1" data-name="JetBlue_Retail_Refresh_Sky_High_Service_300x250_Frame02 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Sky_High_Service_300x250_Frame02_1)">
+    <g id="Crew_member_badge" data-name="Crew member badge" transform="translate(37 71.602)">
+      <g id="badge" transform="translate(0 7.502)">
+        <path id="wing_left_3" data-name="wing left 3" d="M229.843,131.906H150.587s-1,9.649,25.818,9.649h53.437Z" transform="translate(-96.703 -91.186)" fill="#ff6433"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="600" viewBox="0 0 300 600">
+  <defs>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Your_Getaway_300x600_Dynamic_Frame03_1">
+      <rect width="300" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Your_Getaway_300x600_Dynamic_Frame03_1" data-name="JetBlue_Retail_Refresh_Your_Getaway_300x600_Dynamic_Frame03 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Your_Getaway_300x600_Dynamic_Frame03_1)">
+    <g id="Beach" transform="translate(10 -29)">
+      <path id="Path_99315" data-name="Path 99315" d="M0,0H1200V447H0Z" transform="translate(-460 391)" fill="#f6f6f6"/>
+    </g>
+    <text id="_2024_JetBlue_Airways_Corporation._All_rights_reserved._" data-name="© 2024 JetBlue Airways Corporation. All rights reserved. " transform="translate(27 591)" fill="#fff" font-size="7" font-family="ESKlarheitGrotesk-Bk, ES Klarheit Grotesk"><tspan x="0" y="0">© 2024 JetBlue Airways Corporation. All rights reserved. </tspan></text>
+    <text id="_2024_JetBlue_Airways" data-name="© 2024 JetBlue Airways" transform="translate(27 579)" fill="#fff" font-size="7" font-family="ESKlarheitGrotesk-Bk, ES Klarheit Grotesk"><tspan x="0" y="0">© 2024 JetBlue Airways</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="250" viewBox="0 0 300 250">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="300" height="176" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Your_Getaway_300x250_Frame04_1">
+      <rect width="300" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Your_Getaway_300x250_Frame04_1" data-name="JetBlue_Retail_Refresh_Your_Getaway_300x250_Frame04 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Your_Getaway_300x250_Frame04_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="Beach" transform="translate(-154.078 150.979)">
+        <path id="Path_99315" data-name="Path 99315" d="M0,0H657.477V244.91H0Z" transform="translate(0 0)" fill="#f6f6f6"/>
+      </g>
+    </g>
+  </g>
+</svg>

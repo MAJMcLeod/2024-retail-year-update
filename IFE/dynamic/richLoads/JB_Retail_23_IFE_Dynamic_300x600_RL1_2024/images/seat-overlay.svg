@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="600" viewBox="0 0 300 600">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="300" height="458" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1">
+      <rect width="300" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1" data-name="JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="plane_seatback" data-name="plane seatback" transform="translate(8.151 186.276)">
+        <g id="seat_overlay" data-name="seat overlay">
+          <path id="Path_48282" data-name="Path 48282" d="M220.29,141.279l.167,3.2h-40.3l.579-3.2Z" transform="translate(40.505 31.763)" fill="#000064"/>
+          <path id="Path_48283" data-name="Path 48283" d="M116.352,153.6h.491a4.574,4.574,0,0,0,4.61-4.533l-.06-14.433a4.557,4.557,0,0,0-4.6-4.461h-.486a4.535,4.535,0,0,0-4.583,4.461v14.433a4.6,4.6,0,0,0,4.629,4.533" transform="translate(25.118 29.267)" fill="#78746e"/>
+          <path id="Path_48284" data-name="Path 48284" d="M43.528,102.682,63.412,205.509h137.3L220.6,102.682Z" transform="translate(9.786 23.086)" fill="#44447e"/>
+          <path id="Path_48285" data-name="Path 48285" d="M148.455,129.636l-.9-1.421a12.521,12.521,0,0,0-10.568-5.747H105.3a12.521,12.521,0,0,0-10.568,5.747l-.9,1.421a10.937,10.937,0,0,0-.192,11.508l8.144,13.651a15.132,15.132,0,0,0,13.024,7.3H127.48a15.132,15.132,0,0,0,13.024-7.3l8.144-13.651a10.937,10.937,0,0,0-.192-11.508" transform="translate(20.706 27.534)" fill="#cccce0" opacity="0.25"/>
+          <path id="Path_48286" data-name="Path 48286" d="M18.73,141.279l-.167,3.2h40.3l-.579-3.2Z" transform="translate(4.174 31.763)" fill="#000064"/>
+          <path id="Path_48287" data-name="Path 48287" d="M204.377,138.612a3.85,3.85,0,0,0-1.676-.385H58.068a3.85,3.85,0,0,0-1.676.385l-5.4,3.354.579,3.2,4.618-3.077a4.52,4.52,0,0,1,1.849-.4H202.731a4.52,4.52,0,0,1,1.849.4l4.618,3.077.579-3.2Z" transform="translate(11.465 31.077)" fill="#000064"/>
+          <path id="Path_48288" data-name="Path 48288" d="M117.057,153.6h-.491a4.574,4.574,0,0,1-4.61-4.533l.06-14.433a4.557,4.557,0,0,1,4.6-4.461h.486a4.535,4.535,0,0,1,4.583,4.461v14.433a4.6,4.6,0,0,1-4.629,4.533" transform="translate(25.171 29.267)" fill="#000064"/>
+          <rect id="Rectangle_3206" data-name="Rectangle 3206" width="136.984" height="164.062" transform="translate(73.204 228.063)" fill="#44447e"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="600" viewBox="0 0 300 600">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop_area" data-name="crop area" width="300" height="458" fill="#00a"/>
+    </clipPath>
+    <clipPath id="clip-JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1">
+      <rect width="300" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1" data-name="JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02 – 1" clip-path="url(#clip-JetBlue_Retail_Refresh_Live_TV_300x600_Frame04_v02_1)">
+    <g id="illustration" clip-path="url(#clip-path)">
+      <g id="plane_seatback" data-name="plane seatback" transform="translate(8.151 186.276)">
+        <path id="Seat_shadow" data-name="Seat shadow" d="M270.792,114.955c-.556-15.808-3.956-50.181-9.154-67.419C256.519,30.563,258.554,6.863,227.853,3.3c-30.316-3.516-71-3.3-88-3.3s-57.687-.219-88,3.3c-30.7,3.562-28.666,27.262-33.784,44.235-5.2,17.238-8.6,51.612-9.154,67.419-.459,13.032,6.09,35.52,8.574,43.534a4.183,4.183,0,0,0,4.064,2.905H23.7l-.163,3.125h-1.4a1.985,1.985,0,0,0-1.962,2.36l11.107,48.764h217.14l11.107-48.764a1.985,1.985,0,0,0-1.962-2.36h-1.4l-.163-3.125h2.148a4.182,4.182,0,0,0,4.063-2.905c2.484-8.014,9.034-30.5,8.575-43.534" transform="translate(1.998)" fill="#44447e"/>
+      </g>
+    </g>
+  </g>
+</svg>
